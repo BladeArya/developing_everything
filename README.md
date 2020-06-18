@@ -1,6 +1,5 @@
-#python-repository
+A calculater gui using tkinter package.
 
-Hello,
-This is a python repository where different python programs based on differnt application are present.
-
-Thank you
+Requirement-
+1.python
+2.tkinter
